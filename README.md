@@ -19,4 +19,21 @@ To set up the lab environment, follow these steps:
 
    ./spawnlab.sh
 
-```bash
+# Metasploitable2 Setup Script
+
+This script automates the download and setup of the Metasploitable2 virtual machine.
+
+## Requirements
+
+- Git
+- VirtualBox
+- Vagrant
+
+## Additional Notes
+
+- Make sure you have sufficient disk space available for the virtual machine.
+- The setup process may take some time depending on your internet connection speed.
+
+## Credits
+
+This script is created by Snehil Kumar.
