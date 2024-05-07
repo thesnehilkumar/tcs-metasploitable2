@@ -34,5 +34,5 @@ This script automates the download and setup of the Metasploitable2 virtual mach
 
 ## Credits
 
-This script is created by Snehil Kumar.
-For any query mail at snehilkumarnm@amityonline.com
+- This script is created by Snehil Kumar.
+- For any query mail at snehilkumarnm@amityonline.com
