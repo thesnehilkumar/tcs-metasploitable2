@@ -26,8 +26,6 @@ This script automates the download and setup of the Metasploitable2 virtual mach
 ## Requirements
 
 - Git
-- VirtualBox
-- Vagrant
 
 ## Additional Notes
 
