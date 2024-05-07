@@ -87,3 +87,4 @@ fi
 
 echo -e "\n"
 echo "Script created by: Snehil Kumar"
+echo "For any query mail at snehilkumarnm@amityonline.com"
