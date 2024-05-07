@@ -18,5 +18,5 @@ To set up the lab environment, follow these steps:
    chmod +x spawnlab.sh
 
    ./spawnlab.sh
-   
-   ```bash
+
+```bash
