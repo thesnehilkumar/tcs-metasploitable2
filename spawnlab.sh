@@ -8,7 +8,7 @@ spinner() {
     local pid=$1
     local delay=0.25
     local spinstr='|/-\'
-    while ps -p $pid > /dev/null; do
+    while ps -p $pid > /dev/null 2>&1; do
         printf " [%c]  " "$spinstr"
         local temp=${spinstr#?}
         spinstr=$temp${spinstr%"$temp"}
